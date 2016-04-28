@@ -1,0 +1,65 @@
+.all {
+    font-family: 'Oswald', sans-serif;
+    background-image: url('XyloCraft_Background.png');
+    -webkit-background-size: cover;
+       -moz-background-size: cover;
+         -o-background-size: cover;
+            background-size: cover;
+}
+
+.navigation {
+    text-transform: uppercase;
+    display: inline;
+}
+
+.navigation li {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.header {
+    background-image: url('XyloCraft_Banner.png');
+    background-position: center top;
+    padding: 0px 0px 205px 0px;
+}
+
+.title {
+    margin: 0px 0px 0px 200px;
+}
+
+
+
+.ip h1 {
+    font-size: 45px;
+}
+
+.ip:hover {
+    background-color: black;
+    color: white;
+}
+
+.midstaff p {
+    color: blue;
+}
+
+/*
+.html {
+  position: relative;
+  min-height: 100%;
+}
+
+.body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #BDBDBD;
+}
+ */
+/*for positions order: top right bottom left*/
